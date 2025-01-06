@@ -1,7 +1,25 @@
 # Calatoria-Cafelei
-Voi scrie in acest README nu ce am facut, ci ce as fi putut face mai bine si sigur voi schimba!
--Voi face cu STL absolut tot proiectul pentru ca daca faceam asta de la inceput eram foarte castigata, insa mi-am testat rabdarea facand totul asa
--Voi face mult mai multe suprograme si mult mai multe template uri pentru ca am scris foarte mult degeaba efectiv
--Voi aborda diferit functionalitatea Romana/Engleza
--Switch ul dintre orase am vazut ca pot sa il fac cu map, nu cu 1000 de fisiere csv, asa ca asta o sa o schimb
-Good job cu proiectul asta, a fost foarte misto. Imi pare rau ca nu am avut curajul sa folosesc functionalitatile C++ mai mult, dar chiar o sa ma folosesc de tool urile oferite!
+
+Voi scrie în acest README nu ce am făcut, ci ce aș fi putut face mai bine și sigur voi schimba!
+
+---
+
+## Ce aș schimba:
+
+- **Folosirea STL:**  
+  Voi face cu STL absolut tot proiectul, pentru că dacă făceam asta de la început eram foarte câștigată. Totuși, mi-am testat răbdarea făcând totul așa cum este acum.
+
+- **Mai multe subprograme și template-uri:**  
+  Voi face mult mai multe subprograme și template-uri pentru că am scris foarte mult cod inutil efectiv.
+
+- **Funcționalitate Română/Engleză:**  
+  Voi aborda diferit implementarea acestei funcționalități.
+
+- **Switch-ul dintre orașe:**  
+  Am realizat că pot să-l fac cu `map` în loc să folosesc 1000 de fișiere CSV. Aceasta este o schimbare clară pe care o voi implementa.
+
+---
+
+## Concluzii:
+
+Good job cu proiectul acesta, a fost foarte mișto! Îmi pare rău că nu am avut curajul să folosesc mai multe funcționalități avansate din C++, dar cu siguranță mă voi folosi de tool-urile oferite în viitor!
